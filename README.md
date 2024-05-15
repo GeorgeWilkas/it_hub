@@ -15,3 +15,5 @@
  - [MySQL](https://www.mysql.com/)
  - LMS система [Moodle](https://moodle.org/?lang=ru)
  - CMS система [Joomla](https://www.gatsbyjs.com/)
+
+сделал полярный программист

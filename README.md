@@ -8,7 +8,7 @@
  - [всероссийский ит-хаб](https://studentshub.ru/)
  - [moodle](https://studentshub-edu.ru/) 
 ## Презентация и демонстрация
-[гугл диск]()
+[гугл диск](https://drive.google.com/drive/folders/1312_INco5W7t2N6xWeD-3lbO-6DiU4ym?usp=sharing)
 ## Стек технологий
  - [Apache](https://httpd.apache.org/)
  - [PHP](https://www.php.net/)

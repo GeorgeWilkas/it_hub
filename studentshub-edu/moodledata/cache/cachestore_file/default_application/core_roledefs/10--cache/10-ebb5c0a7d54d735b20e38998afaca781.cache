@@ -1,0 +1,1 @@
+a:1:{s:2:"/1";a:9:{s:20:"mod/chat:addinstance";i:1;s:22:"mod/choice:addinstance";i:1;s:21:"mod/jitsi:addinstance";i:1;s:27:"moodle/course:bulkmessaging";i:1;s:28:"moodle/course:changefullname";i:1;s:27:"moodle/course:changesummary";i:1;s:20:"moodle/course:create";i:1;s:38:"moodle/course:creategroupconversations";i:1;s:25:"moodle/course:enrolreview";i:1;}}

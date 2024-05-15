@@ -1,0 +1,34 @@
+/*CommunityBuilder*/
+/*Registration*/
+.btn.btn-primary.btn-sm-block.cbRegistrationSubmit
+{
+background-color: var(--cassiopeia-color-primary);
+border-color: var(--cassiopeia-color-primary);
+}
+
+.btn.btn-primary.btn-sm-block.cbRegistrationSubmit:hover{
+background-color: #424077;
+}
+
+
+.cbPoweredBy, .pull-right.large-kicon, .navbar.navbar-expand-lg.navbar-light.bg-light.shadow-lg.rounded.border, .mod-kunena-breadcrumbs.breadcrumb, .com-content-article.item-page, .cbLogoutForm > .mod-login-logout__button.logout-button{
+display:none !important;
+}
+
+.mb-2.mod-login-logout__login-greeting.login-greeting.cb_template.cb_template_default{
+  text-align:center;
+}
+
+.mb-2.mod-login-logout__login-avatar.login-avatar.cb_template.cb_template_default, .mod-login-logout__button.logout-button, .mod-login__submit.form-group {
+  display: flex;
+  justify-content: center;
+}
+
+#cbfr_59 > .cb_field.col-sm-9 > .form-control-plaintext, .cbListFieldCont.cbUserListFC_cb_zanytost{
+  font-weight: bold;
+}
+
+.brand-logo > span {
+      font-size: calc(0.8rem + 2vw);
+}
+

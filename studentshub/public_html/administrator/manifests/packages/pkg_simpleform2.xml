@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.6.1" method="upgrade">
+    <name>Package SimpleForm2</name>
+    <packagename>simpleform2</packagename>
+    <author>Oleg Micriucov (ZyX)</author>
+    <creationDate>2019</creationDate>
+    <authorEmail>info@allforjoomla.com</authorEmail>
+    <authorUrl>https://allforjoomla.com/simpleform2</authorUrl>
+    <copyright>Copyright (c) 2024 Oleg Micriucov</copyright>
+    <license>http://www.gnu.org/licenseses/gpl-3.0.html GNU/GPL</license>
+    <version>4.1.0</version>
+    <description><![CDATA[SimpleForm2 Installation Package]]></description>
+    <files folder="packages">
+        <file type="module" client="site" id="mod_simpleform2">mod_simpleform2.zip</file>
+        <file type="plugin" client="site" group="system" id="simpleform2">plg_simpleform2.zip</file>
+    </files>
+    
+    <scriptfile>script.simpleform2.php</scriptfile>
+    
+    <updateservers>
+        <server type="extension" priority="1" name="SimpleForm2">http://update.allforjoomla.com/mod_simpleform2.xml</server>
+    </updateservers>
+</extension>

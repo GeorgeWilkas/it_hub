@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6.1" type="plugin" group="system" method="upgrade">
+    <name>System - SimpleForm2</name>
+    <author>Oleg Micriucov (ZyX)</author>
+    <creationDate>2019</creationDate>
+    <authorEmail>info@maxiolab.com</authorEmail>
+    <authorUrl>https://maxiolab.com</authorUrl>
+    <copyright>Copyright (c) 2024 Oleg Micriucov</copyright>
+    <license>http://www.gnu.org/licenseses/gpl-3.0.html GNU/GPL</license>
+    <version>4.1.0</version>
+    <description>PLG_SYSTEM_SIMPLEFORM2_DESCR</description>
+    <files>
+        <filename plugin="simpleform2">simpleform2.php</filename>
+        <filename>index.html</filename>
+    </files>
+    <languages folder="languages">
+        <language tag="en-GB">en-GB.plg_system_simpleform2.sys.ini</language>
+        <language tag="ru-RU">ru-RU.plg_system_simpleform2.sys.ini</language>
+    </languages>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field name="scriptsLoadMode" type="list" default="all_pages" label="PLG_SYSTEM_SIMPLEFORM2_LOAD_SCRIPTS_MODE" description="PLG_SYSTEM_SIMPLEFORM2_LOAD_SCRIPTS_MODE_INFO">
+                    <option value="all_pages">PLG_SYSTEM_SIMPLEFORM2_ALL_PAGES</option>
+                    <option value="sf2_pages">PLG_SYSTEM_SIMPLEFORM2_SF2_PAGES</option>
+                </field>
+            </fieldset>
+        </fields>
+    </config>
+</extension>

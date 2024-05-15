@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.joomlapolis.com/news</link>
+		<lastBuildDate>Wed, 15 May 2024 02:04:56 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomlapolis.com/news?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Introducing CB Package Builder 7.0.0 - Major Release!</title>
+			<link>https://www.joomlapolis.com/news/19044-cb-package-builder-7-0-0-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19044-cb-package-builder-7-0-0-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img style="box-shadow: 0 4px 18px 0 rgba(0,0,0,.1),0 6px 20px 0 rgba(0,0,0,.09);" src="https://www.joomlapolis.com/images/jpnewsletter/jpn202405/cb-packager-7.0.0-downloads-screenshot.png" alt="Screenshot of Package Builder 7.0.0 downloads with a file with multiple versions, a file for logged in users with access level, and one for paid subscribers" width="640" height="516" /></p>
+<p style="text-align: center;">🎉 <em>Your Ultimate Downloading Experience is Ready For Installation</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<p>We're excited to introduce the <strong>latest milestone</strong> in <strong>digital file management</strong>: <strong>CB Package Builder 7.0.0</strong>! CB Package Builder is the <strong>most powerful</strong> and <strong>flexible digital product presentation tool</strong> and <strong>file download solution for Joomla</strong>, allowing you to transform your digital files into packages that can be <strong>presented</strong> to everyone but <strong>only be downloaded by authorized users</strong>. With support for <strong>Joomla ACL</strong> and <strong>built-in conditions</strong> based on user CB field values, CB Package Builder <strong>empowers you to control access</strong> to your digital content effortlessly.</p>
+<p>Now, with the release of version 7.0.0, CB Package Builder is better than ever, packed with exciting new features, enhancements, and optimizations!</p>
+<h3>Here's what you need to know: 10 New Milestone-setting Features!</h3>
+<p><strong>🎉 New Page Management:</strong> Managing product pages is now easier than ever with the introduction of Pages. Configure custom display features, add banners, backgrounds, and feature blocks to create engaging product pages for your downloads.</p>
+<p><strong>😍 Table Template:</strong> Prefer a clean table view of your packages? CB Package Builder now offers a table template for a streamlined browsing experience.</p>
+<p><strong>🎨 Enhanced Display Options:</strong> Take full control of the footer display for every package and preset. Toggle off specific display elements without modifying template files, and customize package pages with new features like banners, backgrounds, and feature blocks.</p>
+<p><strong>📦 Powerful File Management:</strong> Forget about parsing files exclusively from the filesystem! With CB Package Builder 7.0.0, files indexes are now stored in the database, resulting in exceptional performance improvements. Enjoy a new file management page on both frontend and administration sides, where you can easily upload, delete, and manage files for your packages.</p>
+<p><strong>🔍 Efficient Version Retrieval:</strong> Versions are now stored in the database, leading to a 2-3x performance increase in all frontend package views. Plus, with stored versions, retroactive downloading is now <em>optionally</em> possible, allowing users to access releases even after their subscription expires.</p>
+<p>📱 <strong>Mobile-Friendly Design:</strong> We've got your mobile users covered, user engagement on the go!</p>
+<p><strong>🔒 Internal Improvements:</strong> We've made numerous internal improvements to the code base to ensure a more secure and fast experience for all users.</p>
+<p>👍 <strong>There are Even More Features:</strong> Check out <a href="https://www.joomlapolis.com/blog/kyle/19043-cb-package-builder-7-0-0">Kyle's blog post on CB Package Builder 7.0.0</a> for screenshots and even more new features and details!</p>
+<h3>Why is CB Package Manager 7.0.0 so useful for your site?</h3>
+<ol>
+<li><em><strong>Create Stunning Product or Files Presentations: </strong> </em>Customize package pages with banners, backgrounds, and feature blocks thanks to <strong>Flexible Display Options</strong>. Enhance <strong>user engagement</strong>, and <strong>drive conversions</strong> with visually appealing displays that <strong>inspire user interaction</strong> and conversion actions.</li>
+<li><em><strong>Enjoy a Smooth User Experience:</strong> With its <strong>efficient file management:</strong></em> CB Package Manager 7.0.0 ensures <strong>faster performance</strong> and <strong>simplifies maintenance</strong> tasks by storing file indexes in the database, allowing you to <strong>scale seamlessly</strong>.</li>
+<li><em><strong>Control Precisely Access and Versions:</strong></em> With versions stored in the database, CB Package Manager 7.0.0 provides <strong>quick access to content</strong>, extends content <strong>access control</strong>, and enables <strong>effortless management of changes</strong>, ensuring <strong>higher user satisfaction</strong> and efficient content management.</li>
+</ol>
+<h3>Your Digital products presentation and downloads Journey Starts Now!</h3>
+<p><strong><a href="https://www.joomlapolis.com/addons/cb-package-builder">Download CB Package Builder 7.0.0 Now</a> and Redefine your user experience with your downloadables!</strong></p>
+<p><strong>Or take a look at it on our <a href="https://demo.cbdemosites.com/demos/cb-package-builder" target="_blank" rel="noopener noreferrer">Demo Site</a> running CB Package Builder 7.0.0 now!</strong></p>
+<p><strong>Even <a href="https://www.joomlapolis.com/downloads">our own Downloads section</a> uses <a href="https://www.joomlapolis.com/addons/cb-package-builder">CB Package Builder</a>!</strong></p>
+<p>Let's shape the future of downloading together and a big applause to Kyle for this amazing CB Add-On!</p>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 07 May 2024 08:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Exciting Updates: Joomla 5.1 and Joomla 4.4.4 Released!</title>
+			<link>https://www.joomlapolis.com/news/19042-joomla-5-1-joomla-4-4-4-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19042-joomla-5-1-joomla-4-4-4-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202404/j510_640.jpg" alt="Exciting Updates: Joomla 5.1 and Joomla 4.4.4 Released!" width="100%" /></p>
+<p style="text-align: center;">🎉  <em>Exciting Updates: Joomla 5.1 and Joomla 4.4.4 Released!</em>  🥳</p>
+<h3>A Milestone Release</h3>
+<p>The Joomla! Project marks a significant milestone with the release of Joomla 5.1 alongside Joomla 4.4.4! After six months of dedicated work by Joomla volunteers, this release brings you  new features, security enhancements, and performance improvements.</p>
+<h3>Why Joomla 5.1 Matters</h3>
+<p>Joomla 5.1 marks a significant step forward in enhancing the user experience and functionality of the Joomla platform. With a focus on <strong>improving on-boarding</strong>, <strong>accessibility</strong>, streamlining the <strong>user interface</strong>, and enhancing <strong>security</strong>,</p>
+<p>Joomla 5.1 empowers <strong>both new and experienced users</strong> to create stunning websites with ease. From the <strong>intuitive welcome guided tour</strong> to the revamped dark mode, Joomla 5.1 ensures that users can navigate and utilize the platform more efficiently than ever before.</p>
+<p>Additionally, the implementation of The Update Framework (TUF) enhances the security of Joomla updates, providing users with peace of mind knowing their websites are protected against supply attacks.</p>
+<p>With Joomla 5.1, users can expect a smoother, more enjoyable website-building experience, making it the ideal choice for individuals, businesses, and organizations alike.</p>
+<h3>Community Builder Compatibility</h3>
+<p><strong>Community Builder latest release has been thoroughly tested on Joomla 5.1</strong>, ensuring seamless integration and optimal performance. To fully enjoy the benefits of Joomla 5.1 with the latest compatible CB Add-ons and stellar forum support, <strong>we highly recommend to</strong> <a href="https://www.joomlapolis.com/memberships"><strong>renew your Joomlapolis membership</strong></a> and to upgrade CB and your CB Add-ons too.</p>
+<h3>Key Highlights of Joomla 5.1:</h3>
+<p>The latest release of Joomla, version 5.1, brings forth a host of exciting new features and enhancements that cater to both novice users and seasoned developers. Let's delve into the key highlights that make Joomla 5.1 a noteworthy update:</p>
+<ol>
+<li><em><strong>Welcome Guided Tour:</strong></em> Joomla 5.1 introduces a welcome guided tour feature, offering new users a seamless introduction to the platform's interface. This guided tour <strong>simplifies the on-boarding process</strong>, empowering users to quickly familiarize themselves with Joomla's functionality and begin crafting their websites effortlessly.</li>
+<li><em><strong>Improved Dark Mode:</strong></em> Dark mode receives a significant upgrade in Joomla 5.1, offering users a <strong>more comfortable</strong> and visually appealing editing experience. This enhancement <strong>reduces eye strain</strong> during prolonged website editing sessions, fostering a more enjoyable user experience.</li>
+<li><em><strong>Accessibility Improvements:</strong></em> Ensuring <strong>inclusivity</strong> and <strong>user-friendliness</strong>, Joomla 5.1 updates the Jooa11y <strong>Accessibility Checker</strong> plugin, enhancing accessibility across Joomla sites. These improvements cater to diverse audiences, making Joomla websites more accessible and accommodating to all users.</li>
+<li><em><strong>SEO Enhancements:</strong></em> Joomla 5.1 prioritizes <strong>search engine optimization</strong> with enhancements to <strong>URL handling</strong> and final slash behavior. These improvements contribute to better <strong>search engine rankings and increased visibility for Joomla websites</strong>, ultimately driving <strong>more traffic</strong> and engagement.</li>
+<li><em><strong>Administration Interface Enhancements:</strong></em> With Joomla 5.1, managing your website has never been easier. The backend interface receives <strong>significant improvements</strong>, including a <strong>new dialogue boxes</strong> for various tasks, enhancing <strong>administrators' efficiency</strong> in overseeing Joomla websites.</li>
+<li><em><strong>TUF Updater:</strong></em> Joomla 5.1 implements The Update Framework (TUF) to bolster the security and reliability of updates. By <strong>verifying the authenticity of update files</strong> using digital signatures and trust mechanisms, Joomla 5.1 safeguards websites against supply attacks, <strong>ensuring they remain secure and up-to-date</strong>.</li>
+<li><em><strong>Library Updates:</strong></em> <strong>Keeping pace with technological advancements</strong>, Joomla 5.1 updates FontAwesome to version 6.5.1 and TinyMCE to version 6.8.3. These library updates provide users with access to cutting-edge features and functionalities, enhancing the overall performance and capabilities of Joomla websites.</li>
+</ol>
+<p>With these key highlights, Joomla 5.1 stands as a testament to the platform's commitment to innovation and user satisfaction, offering a <strong>robust</strong> and <strong>feature-rich</strong> solution for website creation and management.</p>
+<h3>Why this makes a big difference</h3>
+<p>With these key highlights, Joomla 5.1 <strong>lowers the learning curve</strong> for new users and stands with the platform's <strong>commitment to innovation and user satisfaction</strong>, offering a robust and feature-rich solution for website creation and management.</p>
+<h3>Upgrade to Joomla 5.1 (or at least to Joomla 4.4.4)</h3>
+<p>We <strong>highly recommend </strong><strong>the latest Joomla updates for all CB sites.</strong> Stay current with Joomla and Community Builder updates for the best possible experience for your website's users and a secure online environment.</p>
+<p>If you are not on Joomla 5, <strong>we recommend to start planning</strong> the <a href="https://docs.joomla.org/Planning_for_Mini-Migration_-_Joomla_3.10.x_to_4.x" target="_blank" rel="noopener noreferrer">Joomla 3-&gt;4 mini-migration</a> and/or the <a href="https://docs.joomla.org/Joomla_4.4.x_to_5.x_Planning_and_Upgrade_Step_by_Step" target="_blank" rel="noopener noreferrer">Joomla 4-&gt;5 upgrade</a>. Joomla 3.10.15-elts (Extended Long Term Security) support <a href="https://elts.joomla.org/" target="_blank" rel="noopener noreferrer">ends February 17th 2025</a>, and so will the CB support for Joomla 3 end too.</p>
+<p>For a deeper dive into Joomla 5.1, check out <a href="https://www.joomla.org/announcements/release-news/5907-joomla-5-1-0-and-joomla-4-4-4-are-here.html" target="_blank" rel="noopener noreferrer">Joomla's official announcement</a> and the <a href="https://magazine.joomla.org/all-issues/april-2024/what-s-new-in-joomla-5-1-1" target="_blank" rel="noopener noreferrer">Joomla Magazine article on "What's new in Joomla 5.1"</a>.</p>
+<h3>A big Thank You to Volunteers!</h3>
+<p>Joomla is powered by a passionate community of users and developers who contribute their time and expertise to make Joomla better every day. We express a deep gratitude to all these volunteers doing a fantastic work.</p>
+<h3>Join the Joomla Community</h3>
+<p>By the way, whether you're a developer, designer, user, software architect or seasoned manager, there are plenty of <a href="https://volunteers.joomla.org/" target="_blank" rel="noopener noreferrer">ways to get involved and help shape the future of Joomla</a>.</p>
+<h3>Community Builder Compatibility</h3>
+<p>The latest Community Builder 2.9.1, nightlies and all the latest versions of our CB Add-Ons are fully compatible with Joomla 5.1.0, 4.4.4, and 3.10.15-elts.</p>
+<h3>Renew Your CB Membership</h3>
+<p>To fully enjoy the benefits of Joomla 5.0 with the latest compatible CB Add-ons and stellar forum support, <a href="https://www.joomlapolis.com/memberships"><strong>renew your Joomlapolis membership today</strong></a>. Gain access to the latest CB Add-on <strong>nightlies</strong> and <strong>support our work</strong>.</p>
+<p>Thank you for your continued support of Joomla and Community Builder.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 30 Apr 2024 08:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0.3, 4.4.3, and 3.10.15-elts: Vital Security and Maintenance Releases</title>
+			<link>https://www.joomlapolis.com/news/19040-joomla-5-0-3-joomla-4-4-3-joomla-3-10-15-elts</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19040-joomla-5-0-3-joomla-4-4-3-joomla-3-10-15-elts</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202402/j503_640.jpg" alt="Joomla 5.0.3 and 4.4.3 Security &amp; Bugfix Releases. Secure. Accessible. Fast. Extendable &amp; yours." width="100%" /></p>
+<p style="text-align: center;">🎉 <em>Joomla 5.0.3, 4.4.3 and 3.10.15-elts are released and it's a safe upgrade!</em> 🥳</p>
+<p>The Joomla project has issued Joomla 5.0.3, 4.4.3, and 3.10.15-elts, focusing on security and bug fixes. These updates emphasize Joomla's ongoing commitment to accessible web design, inclusiveness, simplicity, and security.</p>
+<h3>Important Security Update</h3>
+<p>There releases address several security vulnerabilities, including one of high severity and two of moderate severity. For a complete list of the five security fixes, please see the <a href="https://www.joomla.org/announcements/release-news/5904-joomla-5-0-3-and-4-4-3-security-and-bug-fix-release.html" target="_blank" rel="noopener noreferrer">official Joomla 5.0.3 and 4.4.3 announcement</a>.</p>
+<h3>Notable improvements in Joomla 5.0.3</h3>
+<p>Joomla 5.0.3 fixes several minor bugs too, the most notable fixes being:</p>
+<ol>
+<li>Resolving correct display of messages on error pages</li>
+<li>Fixed background in full-screen mode in Code Mirror editor</li>
+<li>Updated translations</li>
+</ol>
+<h3>Community Builder Security</h3>
+<p>We have security-audited <strong>Community Builder </strong>for these Joomla security findings, confirming it <strong>does not contain the vulnerabilities</strong> addressed in these Joomla releases.</p>
+<p>Moreover, <strong>sites using exclusively CB for user management are protected</strong> from the high severity issue (affecting past Joomla 4 and 5 versions and fixed by 4.4.3 and 5.0.3 ).</p>
+<p>CB sites are also mostly protected from <strong>one of the two</strong> moderate severity issues (affecting past Joomla 3.7+ versions and fixed in 3.10.15-elts, 4.4.3, and 5.0.3). Our dedication to security, with all changes to Community Builder being security-reviewed, ensures your website remains protected when using Community Builder.</p>
+<p>We recommend the latest Joomla updates for all CB sites.</p>
+<h3>The Amazing Joomla Security Strike Team</h3>
+<p>Joomla's Security Strike Team works tirelessly to identify and address potential web threats, ensuring the platform remains secure and reliable. The release of Joomla 5.0.3, 4.4.3, and 3.10.15-elts demonstrates their ongoing efforts to protect your website and its users.</p>
+<h3>Upgrade Today</h3>
+<p>We <strong>highly recommend promptly upgrading</strong> all Joomla 5 sites to Joomla 5.0.3, all Joomla 4 sites to 4.4.3, and all Joomla 3 sites to 3.10.15-elts to benefit from these important security fixes. Stay current with Joomla updates for the best possible experience for your website's users and a secure online environment.</p>
+<p>If you are not on Joomla 5, we recommend to start planning the <a href="https://docs.joomla.org/Planning_for_Mini-Migration_-_Joomla_3.10.x_to_4.x" target="_blank" rel="noopener noreferrer">Joomla 3-&gt;4 mini-migration</a> and/or the <a href="https://docs.joomla.org/Joomla_4.4.x_to_5.x_Planning_and_Upgrade_Step_by_Step" target="_blank" rel="noopener noreferrer">Joomla 4-&gt;5 upgrade</a>. Joomla 3.10.15-elts (Extended Long Term Security) support <a href="https://elts.joomla.org/" target="_blank" rel="noopener noreferrer">ends February 17th 2025</a>, and so will the CB support for Joomla 3 end too.</p>
+<p>For more information, visit <a href="https://www.joomla.org/announcements/release-news/5904-joomla-5-0-3-and-4-4-3-security-and-bug-fix-release.html" target="_blank" rel="noopener noreferrer">the official Joomla announcement</a>.</p>
+<h3>Community Builder Compatibility</h3>
+<p>The latest Community Builder 2.9.1 and all the latest versions of our CB Add-Ons are fully compatible with Joomla 5.0.3, 4.4.3, and 3.10.15-elts.</p>
+<h3>Renew Your CB Membership</h3>
+<p>To fully enjoy the benefits of Joomla 5.0 with the latest compatible CB Add-ons and stellar forum support, <a href="https://www.joomlapolis.com/memberships">renew your Joomlapolis membership today</a>. Gain access to the latest CB Add-on nightlies and support our work.</p>
+<p>Thank you for your continued support of Joomla and Community Builder.</p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 29 Feb 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Seamless Social Networking: CB Quickstart 1.1.0 &amp; CB Activity 6.0.1 released!</title>
+			<link>https://www.joomlapolis.com/news/19038-cb-quickstart-1-1-0-cb-activity-6-0-1-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19038-cb-quickstart-1-1-0-cb-activity-6-0-1-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img style="box-shadow: 0 4px 18px 0 rgba(0,0,0,.1),0 6px 20px 0 rgba(0,0,0,.09);" src="https://www.joomlapolis.com/images/stories/blogs/krileon/cbactivity/600/post_location.jpg" alt="Screenshot of CB Activity 6.0 post with images" width="580" height="403" /></p>
+<p style="text-align: center;">🎉 <em>Your Seamless Social Networking is Ready For Installation</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<p>Exciting updates await Community Builder enthusiasts! With <a href="https://www.joomlapolis.com/addons/cb-quickstart">CB Quickstart 1.1.0</a> and <a href="https://www.joomlapolis.com/addons/cb-activity">CB Activity 6.0.1</a> for a smooth user experience.</p>
+<h3>CB Quickstart 1.1.0 Unveiled: Seamless Integration with CB Activity 6.0!</h3>
+<p>Exciting news for Community Builder enthusiasts! <strong>CB Quickstart 1.1.0</strong> is here, integrating seamlessly with <strong>CB Activity 6.0</strong> and featuring <strong>new default settings</strong> aligned with the latest CB Activity release. <strong>Whether you're starting a new social networking</strong> site or <strong>enhancing your existing CB</strong> site, CB Quickstart is the answer.</p>
+<p>This package effortlessly <strong>installs and configures Community Builder</strong>, along with a <strong>suite of CB Add-Ons</strong>, providing a solid foundation for basic social networking on your site. It can also be installed <strong>over an existing CB site</strong>, adjusting CB and Add-Ons settings for a smooth transition (in this case, we recommend exercising on a site clone first).</p>
+<p>Finally, if you're already running CB QuickStart 1.0.x, no need to reinstall Quickstart 1.1.0, simply update CB and individual CB Add-Ons for the latest enhancements.</p>
+<p>Upgrade your CB community building experience with CB Quickstart 1.1.0 for seamless integration with CB Activity 6.0!</p>
+<h3>CB Activity 6.0.1: Fine-Tuning the Community Building Experience</h3>
+<p>Say hello to <strong>CB Activity 6.0.1</strong>, a maintenance release dedicated to ironing out all known minor issues from CB Activity 6.0.0.</p>
+<p>Community Builder's CB Activity add-on introduces a <strong>dynamic and interactive layer</strong> to your website, fostering <strong>user engagement</strong> and <strong>social interaction</strong>.</p>
+<p>With CB Activity 6.0, we've rewritten the entire plugin, delivering a host of exciting features. From a <strong>stunning UI redesign</strong> to <strong>enhanced post creation</strong>, revamped <strong>location features</strong>, and much more, CB Activity 6.0 revolutionizes community building.</p>
+<p>Dive into the future of online interaction with CB Activity 6.0.1 and experience a social networking powerhouse.</p>
+<h3>Unlock the Power of Community Building with CB Quickstart 1.1.0 and CB Activity 6.0.1!</h3>
+<p>These releases are available exclusively to our <a href="https://www.joomlapolis.com/memberships">Professional and Developer Members</a>. <a href="https://www.joomlapolis.com/profile/pluginclass/cbpaidsubscriptions?do=displayplans&amp;plans=36-33-8-27"><strong>Subscribe or renew now</strong></a> to unlock the full potential of Community Builder and take your community to new heights!</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 24 Jan 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>CB Activity 6.0 Stable released: Elevate Your Community Experience!</title>
+			<link>https://www.joomlapolis.com/news/19037-cb-activity-6-0-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19037-cb-activity-6-0-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202401/cb_activity_6_0_gallery_640.jpg" alt="Screenshot of CB Activity 6.0 post with images" width="640" height="516" /></p>
+<p style="text-align: center;">🎉 <em>Your Ultimate Social Experience is Ready For Installation</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<p>Excitement is in the air as we proudly introduce <strong>CB Activity 6.0</strong>—a <strong>game-changing</strong> release that <strong>redefines the art of community building</strong>! 🚀 Get ready for a revolutionary experience that goes beyond the ordinary and propels your community interactions to new heights.</p>
+<h3>What's in Store for You: Over 30 Mind-Blowing Features!</h3>
+<p>Kyle has been working on this release for over a year! The list of new features and major improvements is so long, that this is only a short-list of the best of them:</p>
+<p>🎨 <strong>Stunning UI Redesign:</strong> Say hello to a fresh and modern look! Our complete UI overhaul brings CB Activity in line with the best in social media design, ensuring an intuitive and visually appealing interface.</p>
+<p>💬 <strong>Enhanced Post Creation:</strong> Crafting posts has never been this dynamic! Live previews, quick mentions, and hashtags make your posts come alive, creating a more engaging and interactive state-of-the-art user experience.</p>
+<p>🌍 <strong>Revamped Location Feature:</strong> The new location feature supports built-in maps, automatic location selection, and nearby place searching. Share locations seamlessly, fostering more meaningful community connections. Moreover, google maps and open street maps are natively supported!</p>
+<p>🚀 <strong>Updated Actions for Accessibility:</strong> Actions take center stage with a fresh look! Transformed into a popover format, accessibility-first keyboard navigation and focus handling make interactions smoother and user-friendly.</p>
+<p>😍 <strong>Reimagined Reactions Popover:</strong> Express yourself with flair! A complete rewrite of the reactions popover offers better searching, a favorites system, and accessibility-first navigation support for both Tenor and Giphy.</p>
+<p>🤩 <strong>New Sticker System:</strong> Embrace versatility! Stickers, the new emote system, support images, videos, and custom HTML. Say goodbye to limitations and hello to creative freedom!</p>
+<p>🌈 <strong>Enhanced Themes for Customization:</strong> Themes receive an upgrade with an accessible UI, cleaner previews, and selection options. Customize your community's appearance effortlessly, ensuring a unique and polished look.</p>
+<p>📏 <strong>Message Limit Indicator:</strong> Stay on point effortlessly! The new message limit indicator provides a visual cue as the limit approaches, making post limits easy to manage and enhancing the overall user experience.</p>
+<p>📱 <strong>Mobile-Friendly Design:</strong> We've got your touch controls covered! All buttons and toggles are resized for mobile, optimizing user engagement on the go.</p>
+<p>🎉 <strong>Redesigned Activity Display:</strong> Enjoy a more organized and visually appealing activity feed! Gallery media collapses into cleaner modal grids, offering an improved comment display.</p>
+<p>🔍 <strong>Expanded Activity Stream Filters:</strong> Find and follow with ease! The activity stream filters system now includes search capabilities, allowing for a more personalized and user-centric experience.</p>
+<p>🖼️ <strong>Robust Post Share Feature:</strong> Spread the love! The new post share feature lets users share posts across other sites and repost to their profiles, fostering collaboration and expanding content reach.</p>
+<p>📤 <strong>Embedding Support:</strong> Go beyond boundaries! CB Activity now supports external embedding, allowing users to embed posts on other sites effortlessly.</p>
+<p>🔄 <strong>Redesigned Dropdown Menus:</strong> Enhance interaction with cleaner and more accessible dropdown menus! Increased in size for mobile and aligned with clean icons, these menus ensure an optimal user experience.</p>
+<p>🔖 <strong>Bookmarking System:</strong> Save your favorites! Users can now bookmark posts, creating a built-in saving system for easy access to preferred content.</p>
+<p>🛡️ <strong>Enhanced Report Functionality:</strong> Moderation made easy! The report functionality receives an upgrade with auto-moderation, ensuring a safer community environment with automatic actions based on predefined thresholds.</p>
+<p>🔄 <strong>Stream Management Interface:</strong> Simplify administration tasks! All stream features are now easily managed from a single clean interface, providing a centralized hub for efficient stream management.</p>
+<p>🔍 <strong>Unified Management of Hidden Items:</strong> Manage hidden content with ease! Hidden activity and comments are now streamlined on a single page, improving user control and moderation efficiency.</p>
+<p>🔔 <strong>Push-Based Notifications:</strong> Stay in the loop! Notifications are now Push based, providing a more responsive and reliable notification system.</p>
+<p>📐 <strong>Standardized Notification Design:</strong> Aesthetic consistency is key! The design of notifications is standardized to fit within a single-row layout, ensuring a cohesive and visually pleasing notification display.</p>
+<p>🌐 <strong>Context Parsing Functionality:</strong> Navigate effortlessly! New robust context parsing functionality enhances notification links, providing contextually relevant links and improving overall user navigation.</p>
+<p>👍 <strong>New Views: Liked and Followed:</strong> Manage your interactions with ease! Liked and Followed views offer a quick overview, allowing users to easily manage their preferences and interactions.</p>
+<p>👍 <strong>There are Even More Features:</strong> Check out <a href="https://www.joomlapolis.com/blog/kyle/19036-cb-activity-6-0-0" target="_blank" rel="noopener noreferrer">Kyle's blog on CB Activity 6.0</a> for screenshots and even more new features and details!</p>
+<h3>Why Dive into CB Activity 6.0?</h3>
+<ol>
+<li>
+<p><strong>Revolutionary Upgrade Process:</strong> Seamlessly transition from CB Activity 5.0 to 6.0 with our smooth upgrade process, migrating all your current 5.0 data to the new blazing fast 6.0 data storage in a fail-safe way: If your server times out, just re-upgrade again to continue the upgrade migration.</p>
+</li>
+<li>
+<p><strong>Managed Streams:</strong> Enjoy enhanced functionality with streams now stored in the database. Explore new possibilities for community interactions with improved accessibility and speed.</p>
+</li>
+<li>
+<p><strong>Built-in Notifications:</strong> Say hello to 37 built-in notifications! Keep your community engaged with interactive notifications and replace CB GroupJive Email/PM notifications with CB Activity notifications.</p>
+</li>
+</ol>
+<h3>Your Community Journey Starts Now!</h3>
+<p>We invite you to embark on this exciting journey with CB Activity 6.0. We have thoroughly tested this upgrade-migration process, but as usual, make sure to <strong>backup</strong> your site before upgrading in all cases.</p>
+<p>For complex or customized sites with inline Streams via <strong>CB Activity Bot substitutions</strong> or <strong>Custom activity logging</strong> via CB Auto Actions, please read details on these specific cases in Kyle's <a href="https://www.joomlapolis.com/blog/kyle/19034-cb-activity-6-0-0-rc-1" target="_blank" rel="noopener noreferrer">CB Activity 6.0 RC1 blog</a>.</p>
+<p>Check out <a href="https://www.joomlapolis.com/blog/kyle/19036-cb-activity-6-0-0" target="_blank" rel="noopener noreferrer">Kyle's blog on CB Activity 6.0</a> for more information on upgrade, screenshots and many nice details.</p>
+<p><strong><a href="https://www.joomlapolis.com/addons/cb-activity">Download CB Activity 6.0 Now</a> and Redefine Community Building Together!</strong></p>
+<p><strong>Or take a look at it on our <a href="https://demo.cbdemosites.com/demos/cb-activity/recent-activity" target="_blank" rel="noopener noreferrer">Demo Site</a> running CB Activity 6.0 stable now!</strong></p>
+<p>Let's shape the future of community building together and a big applause to Kyle for this amazing CB Add-On!</p>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Mon, 08 Jan 2024 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>New CB Activity 6.0 RC1 Unleashed! Explore New Horizons with Upgrade Migration!</title>
+			<link>https://www.joomlapolis.com/news/19035-cb-activity-6-0-rc1-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19035-cb-activity-6-0-rc1-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202310/cbactivity6.0beta2screenshot.png" alt="Screenshot of blog post attaching a media by drag and drop" width="100%" /></p>
+<p style="text-align: center;">🎉 <em>Your Ultimate Social Experience is Getting Better and Better</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<p>We're thrilled to present CB Activity 6.0 RC1, a pivotal release that introduces a groundbreaking feature: the smooth migration of existing CB Activity 5.0 installations to 6.0 RC1 during the upgrade process. This allows you to seamlessly transition your established community to the next level, preserving your data and configurations.</p>
+<h3><strong>Key Highlights of CB Activity 6.0 RC1 (among over 30 new features):</strong></h3>
+<ol>
+<li><strong><strong>Migration Magic:</strong></strong>
+<ul>
+<li>RC1 introduces a revolutionary upgrade process, enabling existing CB Activity 5.0 installations to smoothly transition to 6.0 RC1, in a fail-safe way. Now you can test drive the latest features on a site clone, offering valuable feedback on bugs in our forum and general experiences in the comments below.</li>
+</ul>
+</li>
+<li><strong>Managed Streams:</strong>
+<ul>
+<li>Experience the transformation of streams, now stored in the database for enhanced functionality. Enjoy seamless access and explore new possibilities for community interactions.</li>
+</ul>
+</li>
+<li><strong>Built-in Notifications:</strong>
+<ul>
+<li>Say hello to 37 built-in notifications, enriching your community engagement. Stay informed and keep your members engaged with interactive notifications.</li>
+</ul>
+</li>
+</ol>
+<p>Please read <a href="https://www.joomlapolis.com/blog/kyle/19034-cb-activity-6-0-0-rc-1">Kyle's CB Activity 6.0 RC1 blog post</a> for details regarding this migration, and adjustments that might be needed in very particular configurations.</p>
+<h3><strong>Your Feedback Matters:</strong></h3>
+<p>We invite you to be a part of this exciting journey! Test RC1 <strong>on a site clone</strong> and share your findings on our forum for bug reports and in the comments below for general feedback, especially regarding smooth upgrades from CB Activity 5.0.</p>
+<p><em>Please note that CB Activity 6.0 RC1 <strong>should not yet be used on live sites with CB Activity 5.0 already running</strong>, as the migration process needs community testing (yes, that's CB Activity 5.0 users, on site clones).</em></p>
+<p><a href="https://www.joomlapolis.com/downloads/plugins">Download CB Activity 6.0 RC1 here</a>: Select the "6.0.0-rc.1+2023-12-18" version from the drop-down versions selector since it's not a stable or nightly release.</p>
+<p>Together, let's shape the future of community building..</p>
+<p>Stay tuned for the official CB Activity 6.0 release in early January, where over 30 major features will redefine your community engagement.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 19 Dec 2023 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.9.1 released: Embracing new PHP 8.3!</title>
+			<link>https://www.joomlapolis.com/news/19033-community-builder-2-9-1-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19033-community-builder-2-9-1-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202312/CB_2.9.1_released_640x360.jpg" alt="Community Builder 2.9.1 Joomla 3.10-5.0 native!! Runs on PHP 7.4-8.3!" width="640" height="360" /></p>
+<p style="text-align: center;">🎉 <em>Community Builder 2.9.1 released: Embracing new PHP 8.3!</em> 🥳</p>
+<p style="text-align: left;"> </p>
+<p>We're excited to announce the release of Community Builder 2.9.1, a significant update that introduces verified support for the latest PHP 8.3 release. With this integration, Community Builder ensures compatibility with the newest advancements in PHP technology. This update also includes an updated and more friendly handling of obsolescence warnings for old unmaintained versions of PHP, MySQL and Joomla, providing more clarity and guidance on maintaining up-to-date server environments.</p>
+<h3>PHP 8.3 Compatibility and Performance Boost</h3>
+<p><strong>PHP 8.3</strong>, recently released by the PHP development team, brings a host of improvements, including a <strong>notable 28% speed increase for Joomla</strong>, <a href="https://kinsta.com/blog/php-benchmarks/#joomla" target="_blank" rel="nofollow noopener noreferrer">as benchmarked here</a>.</p>
+<p>It's important to note that <strong>PHP 8.0 has reached its end of life for security support</strong>, and PHP 8.1 is no longer receiving bug-fix maintenance releases. While Linux distributions might offer minimal security maintenance, <strong>we strongly recommend selecting an officially supported PHP version (currently 8.3, 8.2 or 8.1)</strong> for your site through your hosting panel.</p>
+<p>🔗 All our <strong>latest CB and CB Add-ons</strong> have been tested and <strong>run seamlessly on PHP 8.3</strong>, ensuring a smooth experience for your Joomla-powered community websites.</p>
+<p>Our demo site is already running on PHP 8.3, showcasing the compatibility and stability of Community Builder with the latest PHP release.</p>
+<h3>Upgrade Now for Peak Performance and Security</h3>
+<p>👉 Upgrade to Community Builder 2.9.1 and PHP 8.3 today to benefit from these advancements and ensure your community site is running on a secure and efficient PHP environment. Thank you for being a part of the Joomlapolis community, and stay tuned for more updates and improvements!</p>
+<p><em>Note: Always remember to perform a backup before upgrading your Community Builder installation.</em></p>
+<h3>Renew Your CB Membership for Ongoing Benefits</h3>
+<p>Renew your Joomlapolis membership to access the latest features, early releases, and premium support. Your ongoing support enables us to continue delivering top-notch Joomla solutions.</p>
+<ul>
+<li><strong>Discover Community Builder 2.9</strong>: <a href="https://www.joomlapolis.com/news/19030-community-builder-2-9-released">Explore the latest features and upgrade now!</a></li>
+<li><strong>Explore our CB Add-Ons</strong>: <a href="https://www.joomlapolis.com/addons">Find the perfect add-ons for your community site!</a></li>
+<li><strong>Renew Your Membership</strong>: <a href="https://www.joomlapolis.com/memberships">Ensure ongoing benefits and support our work!</a></li>
+</ul>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 12 Dec 2023 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0.1, 4.4.1 and 3.10.14-elts Security and Maintenance Release</title>
+			<link>https://www.joomlapolis.com/news/19032-joomla-5-0-1-joomla-4-4-1-joomla-3-10-14-elts</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19032-joomla-5-0-1-joomla-4-4-1-joomla-3-10-14-elts</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202312/j501_640.jpg" alt="Joomla 5.0.1 and 4.4.1 Security &amp; Bugfix Releases. Secure. Accessible. Fast. Extendable &amp; yours." width="100%" /></p>
+<p style="text-align: center;">🎉 <em>Joomla 5.0.1, 4.4.1 and 3.10.14-elts are released and it's a safe upgrade!</em> 🥳</p>
+<p style="text-align: left;">The Joomla project has released versions 5.0.1, 4.4.1, and 3.10.14-elts, addressing a very-low-probability vulnerability that affects Joomla versions 1.6 to 3.10.12, 4.4.0 and 5.0.0.</p>
+<p style="text-align: left;">This vulnerability is of very low probability, as it requires the site super-administrator to have given to the attacker editing access to the language files, to potentially expose environment variables that may contain sensitive information.</p>
+<h3><strong>Security Update Instructions</strong>:</h3>
+<ul>
+<li>Joomla 5.0.1 and 4.4.1: Easily update through the standard built-in Joomla updater.</li>
+<li>Joomla 3.10.14-elts: Consider upgrading your Joomla 3.10 site to Joomla 4.4.1 instead (see below for instructions). If not possible, consider subscribing to the official 18-months Joomla Extended Long-Term Security support program, while planing an upgrade to 4.4.1 and 5.0.1. Visit <a href="https://elts.joomla.org/" target="_new">elts.joomla.org</a> for more details.</li>
+</ul>
+<h3>Key Improvements in Joomla 5.0.1:</h3>
+<ol>
+<li>Update of TinyMCE Editor to the Latest Version</li>
+<li>Conditional Dark Mode in Editors</li>
+<li>Enhanced Information in Custom Fields for Finder Indexing</li>
+<li>Improvement of Messenger View</li>
+<li>Several Language and Code Style Improvements</li>
+<li>CLI Installer Fixes and Improvements</li>
+<li>Fix SVG Display in Media Manager List View</li>
+<li>Enhanced Error Handling in Public Folder Installation</li>
+<li>Correction of Notice in Mail Template</li>
+<li>Compat-Plugin Loader Addition to API</li>
+</ol>
+<p>For a comprehensive list and detailed information, refer to Joomla's official  <a href="https://www.joomla.org/announcements/release-news/5901-joomla-5-0-1-and-4-4-1-security-and-bug-fix-release.html" target="_new">Joomla 5.0.1 and 4.4.1 announcement</a>.</p>
+<p>Discover how Joomla 5.0 can benefit you <a href="https://joomla.org/5" target="_blank" rel="noopener noreferrer">by exploring the full details on joomla.org/5</a>.</p>
+<p>Full upgrade details can be found <a href="https://docs.joomla.org/Joomla_4.4.x_to_5.x_Planning_and_Upgrade_Step_by_Step">in the Joomla documentation</a>. We strongly recommend testing the upgrade on a copy of your production site first.</p>
+<h3><strong>Community Builder Compatibility</strong>:</h3>
+<p>The latest Community Builder 2.9 is fully compatible with Joomla 5.0.1, 4.4.1, and 3.10.14-elts. We encourage all users to upgrade to these latest Joomla versions for improved security and performance.</p>
+<p>These updates are considered essential for maintaining a secure Joomla environment, and we recommend that everyone promptly applies these updates.</p>
+<h3>Renew Your CB Membership and Access Joomla 5-Upgraded Add-Ons</h3>
+<p>To fully enjoy the benefits of Joomla 5.0 and its compatible add-ons, <a href="https://www.joomlapolis.com/memberships">renew your Joomlapolis membership today</a>. Gain access to the latest add-on nightlies and support our work.</p>
+<p>Thank you for your continued support of Joomla and Community Builder.</p>]]></description>
+			<category>News</category>
+			<pubDate>Mon, 04 Dec 2023 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Unveiling Community Builder 2.9 and 18 CB Add-On Releases: Embracing Joomla 5.0!</title>
+			<link>https://www.joomlapolis.com/news/19030-community-builder-2-9-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19030-community-builder-2-9-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202311/CB_2.9_released_640x360.png" alt="Community Builder 2.9 Joomla 5.0 native! Joomla 4.x and 3.10 native too!" width="100%" /></p>
+<p style="text-align: center;">🎉 <em>Community Builder 2.9 and 32 new CB Add-ons released!</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<h2>Unveiling Community Builder 2.9 and 18 CB Add-On Releases: Embracing Joomla 5.0!</h2>
+<p><span class="">We're excited to announce the release of <strong>Community Builder 2.9</strong> and <strong>18 new stable releases of our CB Add-ons.</strong> This update ensures<strong> compatibility with Joomla 5.0, 4.x, and 3.10 for CB and All our 32 CB Add-Ons,</strong>. This significant milestone underscores our commitment to staying at the forefront of web software development. These releases follows four weeks of nightly releases, rigorous testing, and continuous refinement, ensuring <strong>a safe and recommended CB 2.9 upgrade</strong>.</span></p>
+<h3>Joomla 5.0 Compatibility: Paving the Way for the Future</h3>
+<p><strong>Community Builder 2.9 now runs</strong> <strong>natively</strong> on Joomla 5.0, eliminating the need for the new Joomla 5.0 “compatibility plugin”. This compatibility extends to all latest stable and nightly CB Add-On releases*, ensuring a smooth experience across all active Joomla releases. Transitioning from Joomla 4.x to Joomla 5.x is now a straightforward upgrade, like any minor version upgrade. Just upgrade CB, CB Add-ons, and any other third-party extension before Joomla, ensuring also your usual backup routine.</p>
+<p>Discover <strong>how Joomla 5.0 can benefit you</strong> at <a href="https://joomla.org/5" target="_blank" rel="noopener noreferrer">joomla.org/5</a>.</p>
+<h3>CB Add-Ons: Elevating Your Joomla Experience</h3>
+<p>Out of our 32 CB Add-Ons, 18 needed to be updated to run<strong> natively with Joomla 5.0</strong>. All others were already Joomla 5.0-compatible. These 18 new stable releases bring not only Joomla 5.0, 4.x and 3.10 compatibility, but also new features.</p>
+<p>The new features, among many other improvements, include <strong>support for Joomla 5's new schema.org structured data</strong> in <a href="https://www.joomlapolis.com/addons/cb-content-bot">CB Content Bot</a> (if enabled), <strong>PHP-based replacements</strong> in <a href="https://www.joomlapolis.com/addons/cb-replacer-bot">CB Replacer Bot</a>, branding <strong>support for "X (formerly Twitter)"</strong> in <a href="https://www.joomlapolis.com/addons/cb-connect">CB Connect</a> and <strong>enhanced payment gateways support</strong> in <a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions">CB Paid Subscriptions</a> for Stripe, WorldLine Ingenico ePayments (Ogone), and QuickPay.</p>
+<h3>Benefits of Upgrading to Community Builder 2.9 and Latest CB Add-Ons</h3>
+<p>Upgrading to <strong>Community Builder 2.9</strong> and the latest CB Add-Ons ensures your website's compatibility with the latest Joomla features. Gain also access to a myriad of improvements, including the latest security enhancements, PHP 8.2 compatibility for noticeable speed improvements, and changes reflecting the evolution of web services.</p>
+<p>While Community Builder remains free, an active Professional or Developer membership is required to access upgrades for paid CB Add-ons. We believe in the value of our add-ons and the enhanced functionality they bring to your Joomla experience.</p>
+<h3>A Big Thank You!</h3>
+<p>We are proud of the strides made with Community Builder 2.9 and the 32 CB Add-Ons within the past weeks and months. All these improvements result from our commitment to continuous enhancements and our unwavering dedication to our vibrant community.</p>
+<p>Whether you're a school, a sailing club, a multinational corporation, a national health department, or an NBA team, Community Builder 2.9 and Joomla 5.0 bring you a world of possibilities from just managing your users up to creating large user-centric communities.</p>
+<p>We take this opportunity to thank our dedicated team at Joomlapolis and our vibrant community of users. Your feedback, suggestions, and unwavering support have been instrumental in making these releases possible.</p>
+<p>As always, we recommend keeping your Joomla and Community Builder installations up to date to benefit from the latest features and security fixes. Regular updates ensure a smooth user experience and help keep your platform secure and efficient.</p>
+<h3>Looking into the Future</h3>
+<p>Looking ahead, we are excited about the future of Community Builder and Joomla. We are committed to continuous improvement and are already working on new features and enhancements for future releases.</p>
+<p>Join us in celebrating this milestone and experience the new and improved Community Builder 2.9. We are confident that you will appreciate the enhancements and the seamless Joomla 5.0 compatibility.</p>
+<p>Remember, <strong>Community Builder is more than just software; it's a community</strong>. As we celebrate this release, we also celebrate you, our users, for being a part of this incredible journey. <strong>Thank you for your continued support</strong>, making Community Builder <strong>the best Joomla social networking solution.</strong></p>
+<h3>What's Next?</h3>
+<p>Ready to explore the future with Community Builder 2.9? Dive into our <a href="https://demo.cbdemosites.com/">demo website</a>, <strong>seamlessly upgraded from Joomla 4.4 to Joomla 5.0</strong>, showcasing the power and stability of the latest releases. For more detailed insights and to upgrade your Community Builder experience, visit our <a href="https://www.joomlapolis.com/community-builder">Community Builder page</a> and explore the wide array of <a href="https://www.joomlapolis.com/addons">CB Add-Ons</a>. If you're not yet a part of our active community, consider <a href="https://www.joomlapolis.com/memberships">subscribing or renewing to one of our memberships</a> for exclusive benefits.</p>
+<h3>Renew Your CB Membership and Access Joomla 5-compatible Add-Ons</h3>
+<p>As we embark on this journey of continuous improvement, we invite you to join us in shaping the future of web communities. To fully enjoy the benefits of Joomla 5.0 and its now compatible add-ons, make sure to <a href="https://www.joomlapolis.com/memberships">renew your Joomlapolis membership</a>. Your paid membership allows us to work full-time at full power on Community Builder <strong>for 19 years</strong>, while keeping it free and open-source. Thank You!</p>
+<p><em>* All our CB Add-Ons run on Joomla 5.0 natively (without the Joomla Compatibility plugin activated), except CB Activity 5.0 which runs on Joomla 5.0 too, but needs the Joomla Compatibility Plugin activated (automatically activated when upgrading a Joomla 4.4 site to 5.0).</em></p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 5.0 and Joomla 4.4: A New Era Begins</title>
+			<link>https://www.joomlapolis.com/news/19027-joomla-5-0-and-joomla-4-4-a-new-era-begins</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19027-joomla-5-0-and-joomla-4-4-a-new-era-begins</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202310/joomla50banner.png" alt="Joomla 5.0 available for download - Secure. Accessible. Fast. Extendable &amp; yours" width="100%" /></p>
+<p style="text-align: center;">🎉 <em>Joomla 5.0 is released and it's awesome!</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<h2>Joomla 5.0 and Joomla 4.4: A New Era Begins</h2>
+<p><em>Secure, Accessible, Fast, Extendable - Unleash the Power of Joomla 5.0!</em></p>
+<p>Today is a momentous day for the Joomla! Project and its global community. After two years of dedicated work, discussions, code sprints, and relentless bug squashing, we're thrilled by the release of Joomla 5.0, a major milestone in Joomla's history, alongside Joomla 4.4.</p>
+<h3>Joomla 5.0: An Upgrade, No More Migrations</h3>
+<p>Joomla 5.0 brings a wealth of new features, security enhancements, and a remarkable boost in performance. Under the hood, every aspect has been meticulously redesigned and optimized, harnessing the latest server technologies. It's a platform designed to grow with you, whether you're an individual blogger, a nonprofit organization, a web agency, a multinational corporation, or working for a government.</p>
+<p>Transitioning from Joomla 4.4.x to Joomla 5.x is now a straightforward upgrade, akin to any minor version upgrade, eliminating the need for complex migrations.</p>
+<h3>Discover Joomla 5.0's Key Highlights</h3>
+<ul>
+<li><strong>Improved User Experience:</strong> Guided Tours have been massively improved and many new Joomla tours have been added to Joomla 5.0. Joomla 5.0 also introduces a dark mode for administrators and the new Joomla modal window for select buttons, as well as many small improvements, promising a more refined experience.</li>
+<li><strong>Boosted website speed:</strong> Joomla 5.0 includes enhancements in web asset caching, automatic source code optimization with phpcs, and cleaner code base, resulting in a remarkably faster, smoother, and more efficient platform. Several scheduled tasks have been moved to scheduler plugins, for optimal performance.</li>
+<li><strong>Enhanced search engine optimization (SEO):</strong> Automatic activation of Schema.org data for organization and site names brings Joomla to new SEO heights, out of the box.</li>
+<li><strong>The latest HTML editor:</strong> The new TinyMCE editor version 6.7 offers many refinements, in particular additional images alignments.</li>
+<li><strong>Media Management:</strong> AVIF support in the media manager and the ability to exclude archived content from smart search indexing improve media handling capabilities.</li>
+<li><strong>Menu Sorting:</strong> Joomla 5.0 empowers you to sort your menu the way you want.</li>
+<li><strong>Modern Technologies:</strong> Internal code restructuring and cleanliness focuses on using modern APIs, transitioning from older APIs, removing obsolete ES5 support for efficient operation and includes added JS Import map support for Web Asset Manager. Every library has been updated to latest standards.</li>
+<li><strong>PHP &amp; Bootstrap Updates:</strong> Improved compatibility with PHP 8+ with a minimum set at PHP 8.1 and MySQL 8.0.13/MariaDB 10.4, and an update to Bootstrap 5.3.2 keep Joomla contemporary.</li>
+<li><strong>Enhanced Security:</strong> Security improvements include migrating events to their classes and removing obsolete Recaptcha plugins.</li>
+<li><strong>Extensions Compatibility:</strong> Most modern Joomla 3.10 and 4 extensions should run just fine in Joomla 5.0, with the introduction of a core Compatiblity plugin, moving legacy code support into a single place for added performance and easy native compatibility tests.</li>
+</ul>
+<p>Find out how Joomla 5.0 can benefit you by exploring the full details on <a href="https://joomla.org/5" target="_blank" rel="noopener noreferrer">joomla.org/5</a>.</p>
+<h3>Upgrade to Joomla 5.0</h3>
+<p>Good news for Joomla 4.4.x users - it's an upgrade, not a migration. Joomla 4 extensions that have kept pace with Joomla's latest code will work seamlessly in Joomla 5. Most others can function with the new Behavior - Backward Compatibility Plugin enabled.</p>
+<p>Joomla recommends to upgrade a copy of your site and check it out first. You may probably want to update or restyle your Joomla template just after the upgrade.</p>
+<p>Full upgrade details can be found <a href="https://docs.joomla.org/Joomla_4.4.x_to_5.x_Planning_and_Upgrade_Step_by_Step">in the Joomla documentation</a>. We too recommend strongly testing the upgrade on a copy of your production site first.</p>
+<h3>Why Rush? Joomla 4.4 Supported for 2 More Years</h3>
+<p>No need to rush; Joomla 4.4 will be supported for two more years, ensuring your site's security. Many extensions have already prepared Joomla 5 versions, making the transition smooth and painless.</p>
+<h3>Why Not Rush? Boost your site speed, SEO and user experience!</h3>
+<p>However, you should definitely consider upgrading to Joomla 4.4 now and make plans for the imminent transition to Joomla 5.0. This proactive step will not only enhance your site's visibility on search engines and improve its ranking but also elevate your users' experience through enhanced usability and speed. Additionally, reducing the consumption of server resources for page rendering is not only beneficial for your users, but also contributes positively to the environment and the climate.</p>
+<h3>What About Joomla 4.4?</h3>
+<p>Joomla 4.4 focuses on providing a very smooth upgrade path, by not introducing new features, except the upgrade tester. It is thus a safe and mandatory step in your upgrade to Joomla 5.0.</p>
+<p>Behind the curtains, Joomla 4.4's automated build tests have been massively extended, going from only 17 automated application tests to over 400, with thousands of simulated clicks and tested replies. Same is being added to Joomla 5.0. This will bring Joomla's already legendary stability to unseen levels. This allows smooth upgrades in full confidence. This an additional reason why we can already recommend upgrades from Joomla 4.3.4 to 4.4.0.</p>
+<h3>What About Community Builder?</h3>
+<p>Community Builder and all add-on nightly releases have been adapted to run on Joomla 5.0 natively (this means that it runs also with the Joomla Compatibility Plugin disabled). New "stable" releases for CB and all add-ons will be released next week.</p>
+<p>CB will now be checking for installed PHP and MySQL/MariaDB versions, and display an information banner if your server runs below PHP 8.1 or MySQL 8.0.13/MariaDB 10.4 versions required for Joomla 5. We plan to increase our minimum PHP and database versions requirements in the future, to align with Joomla's latest ones. Sites also load faster with latest PHP versions, so it's anyway recommended to use latest PHP versions.</p>
+<h3>Renew Your CB Membership and Access Joomla 5-Upgraded Add-Ons</h3>
+<p>To fully enjoy the benefits of Joomla 5.0 and its compatible add-ons, <a href="https://www.joomlapolis.com/memberships">renew your Joomlapolis membership today</a>. Get access to the latest add-on nightlies and support our work.</p>
+<h3>Beyond Joomla 5.0: A Bright Future Awaits</h3>
+<p>In the making for over two years, Joomla 5.0 has been crafted by hundreds of developers who are also daily Joomla users. It reflects the practical needs of Joomla users, incorporating modernizations and improvements. And the journey doesn't end here - Joomla 5.1 is already in the works and will be released in just six months, promising even more exciting features.</p>
+<h3>Join Us on This Exciting Journey</h3>
+<p>Joomla is thriving, expanding, and progressing. Developed with precision, it garners appreciation from governments, NGOs, small and large companies globally, and enjoys the trust of millions of websites, playing a pivotal role in powering approximately 2% of all websites on the Internet. Joomla 5.0, a significant and easy to use release with many well-crafted Guided Tours, is set to boost Joomla's appeal for new websites.</p>
+<p>Community Builder and all its add-ons are now primed for Joomla 5.0, and we cordially invite you to embark on this exciting journey with us.</p>
+<ul>
+<li>Read the <a href="https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here.html">complete Joomla 5.0 announcement on Joomla.org</a>.</li>
+<li><a href="https://www.joomlapolis.com/memberships">Renew your membership today</a> to access the latest add-on nightlies and support our work.</li>
+<li>Read <a href="https://www.joomlapolis.com/blog/kyle/19026-joomla-5-rc-2">Kyle's blog about our adaptation work for Joomla 5</a>.</li>
+<li>Ugrade your website to Joomla 4.4 and your extensions to their latest versions. Ensure all your extensions are compatible with Joomla 4 and 5.</li>
+<li>Make a copy of your website, then upgrade the copy to Joomla 5 <a href="https://docs.joomla.org/Joomla_4.4.x_to_5.x_Planning_and_Upgrade_Step_by_Step">following the Joomla upgrade documentation</a> carefully. Document each step meticulously.</li>
+<li>If all looks good, safeguard your main website with a backup, and replicate the same steps on your main site.</li>
+</ul>
+<p>Stay tuned for next week's article on Community Builder's release, as we continue to support and empower your Joomla experience.</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 18 Oct 2023 08:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>New CB Activity 6.0 Beta 2 Unleashed!</title>
+			<link>https://www.joomlapolis.com/news/19025-cb-activity-6-0-beta-2-already-releaed</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19025-cb-activity-6-0-beta-2-already-releaed</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202310/cbactivity6.0beta2screenshot.png" alt="Screenshot of blog post attaching a media by drag and drop" width="100%" /></p>
+<p style="text-align: center;">🎉 <em>Your Ultimate Social Experience is Getting Better and Better</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<p>We're excited to announce the next milestone in the CB Activity 6.0 journey—Beta 2 is already here, and it's loaded with new features and enhancements that will elevate your community experience:</p>
+<h3>1. Customize Activity Posts Like Never Before</h3>
+<p>With Beta 2, you can now require specific elements for activity posts. Whether it's adding a location, tagging a user, or uploading media, you have full control. Tailor your community's posts to meet your unique needs.</p>
+<h3>2. CB GroupJive and CB Gallery Support</h3>
+<p>We've introduced native support for CB GroupJive and CB Gallery. Enjoy activity streams, likes, and follows for your CB GroupJive groups. Plus, comments and likes for CB Gallery are now supported natively.</p>
+<h3>3. SEO-Friendly URLs for Enhanced Visibility</h3>
+<p>Boost your community's visibility with SEO-friendly URLs for activity posts, activity embeds, comment posts, and notification URLs. Customize them to match your Joomla menu alias and drive engagement.</p>
+<h3>4. Performance Boosts and Fixes</h3>
+<p>We've fine-tuned the performance with internal API adjustments and responsive improvements. We've also polished some CSS styling to ensure a smoother user experience.</p>
+<p>Remarkably, Beta 2 is here just 8 days after Beta 1, showcasing our commitment to rapid development and your invaluable feedback. Beta 3 may take a bit longer to arrive as we prepare for the exciting Joomla 5 release, scheduled around October 17th. More on this soon!</p>
+<p>For in-depth details, explore <a href="https://www.joomlapolis.com/blog/kyle/19024-cb-activity-6-0-0-beta-2">Kyle's blog post</a> and the <a href="https://www.joomlapolis.com/forum/6-news-and-publicity/246161-cb-activity-6-0-0-beta-1#335232">sneak peek forum post</a>.</p>
+<p>Join us in shaping the future of CB Activity. Your feedback is invaluable, and we're excited to make this release even better.</p>
+<p>Stay tuned for more updates, and thank you for being a vital part of our community.</p>
+<p>Explore Beta 2 Now!</p>
+<h3>How to Get CB Activity 6.0 Beta 2</h3>
+<p>To access CB Activity 6.0 Beta 2 and be among the first to experience these incredible features, you'll need a <strong>Professional</strong> or <strong>Developer</strong> membership, one of the benefits of our <a href="https://www.joomlapolis.com/memberships">memberships</a>. Please note that direct upgrades from CB Activity 5.0 to 6.0 Beta 2 are currently unavailable. CB Activity 6.0 Beta 2 requires CB 2.8.2, and CB 2.8.2 performs compatibility checks. Upgrades will be possible when CB Activity 6.0 reaches RC1, implementing CB Activity 5.0 migration code for existing CB Activity 5.0 sites.</p>
+<h3>Get Involved, Support the Community</h3>
+<p>Help shape the future of Community Builder and CB Activity by becoming a <a href="https://www.joomlapolis.com/memberships"><strong>Professional</strong> or <strong>Developer</strong> member</a>. Your support enables us to continue developing these amazing tools that enhance your online community experience. To get started and access CB Activity 6.0 Beta 2, <a href="https://www.joomlapolis.com/memberships" target="_new">join us today</a>!</p>
+<h3>Calling for Early Feedback</h3>
+<p>We're thrilled to receive early feedback from our dedicated community members. Your insights and suggestions play a vital role in shaping the future of CB Activity. Join us in celebrating the release of CB Activity 6.0 Beta 2, and discover a world of possibilities for your online community.</p>
+<p><em> </em></p>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 05 Oct 2023 08:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Exciting News: CB Activity 6.0 Beta 1 and CB 2.8.2 Release!</title>
+			<link>https://www.joomlapolis.com/news/19023-cb-activity-6-0-beta-1-and-cb-2-8-2-releaed</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19023-cb-activity-6-0-beta-1-and-cb-2-8-2-releaed</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/stories/blogs/krileon/cbactivity/600beta1/post.png" alt="Fireworks" width="616" height="176" /></p>
+<p style="text-align: center;">🎉 <em>Your Ultimate Social Experience is About to Get Even Better</em>! 🥳</p>
+<p style="text-align: left;"> </p>
+<p>We are thrilled to announce the release of <a href="https://www.joomlapolis.com/addons/cb-activity"><strong>CB Activity</strong></a><strong> 6.0 Beta 1</strong> and <strong>Community Builder 2.8.2</strong>, a monumental update that promises to redefine your social networking experience.</p>
+<h3>CB Activity 6.0 Beta 1: A Sneak Peek into the Future</h3>
+<p>The highly-anticipated CB Activity 6.0 Beta 1 is here, and it's packed with a staggering 110 new features, stunning redesigns, and unmatched functionality. While this is a beta release, it's a tantalizing glimpse into the future of CB Activity.</p>
+<h3><em>What's New in CB Activity 6.0 Beta 1?</em></h3>
+<p>This release introduces a first set of main highlights, including</p>
+<p><strong>Redesigned Look and Feel</strong>: The new post window has undergone a makeover, with larger buttons and a mobile-friendly design.</p>
+<p><strong>Reactions</strong>: Express yourself using Tenor or Giphy reactions, complete with search, favorites, and recently used options.</p>
+<p><strong>Emoji Overhaul</strong>: The emoji selector has been completely redesigned, featuring native emoji, categorization, multiple emoji colors, and a convenient recently used emoji bar.</p>
+<p><strong>Introducing Stickers</strong>: Stickers are a brand-new addition, replacing the old emote system. Customize them with CSS, image files, videos, and HTML. You can even control access to reward subscribers with unique stickers.</p>
+<p><strong>Themes</strong>: Themes now come with improved previews and full customization options, including custom CSS classes and access controls.</p>
+<p><strong>Actions/Moods</strong>: Say goodbye to the old dropdown select. Enjoy an accessible and keyboard-navigable action selection with autocomplete options for each action.</p>
+<p><strong>Locations Made Easy</strong>: Users can now effortlessly select locations using maps from OSM or Google Maps. No more manual input.</p>
+<p><strong>Automated Links</strong>: Forget the link button; links are now automated. Simply add a link to your post, and it will be processed automatically, complete with image and media previews.</p>
+<p><strong>Rich Text Editing</strong>: The text editor has been upgraded to a rich editor that can convert supported usages into HTML. Enjoy live previews of reactions, emoji, and stickers, as well as autocomplete for @mentions and #hashtags.</p>
+<p><strong>Enhanced Sharing with Privacy</strong>: Easily share activity posts with various external services while keeping your privacy intact, thanks to our cookie-free approach.</p>
+<p><strong>Robust Filtering</strong>: Streams now offer advanced filtering options, including pre-defined filters and various search criteria.</p>
+<p><strong>Like Types</strong>: Likes now have meaning, with a type count and filtering options in the updated likes window.</p>
+<p>And that's just the tip of the iceberg! This impressive list is just the beginning! CB Activity 6.0 Beta 1 is brimming with new functionality, making it the ultimate social stream experience. Stay tuned for additional highlights with upcoming betas</p>
+<p><em>Explore <a href="https://www.joomlapolis.com/blog/kyle/19022-cb-activity-6-0-0-beta-1">Kyle's blog post</a> for even deeper insights into CB Activity 6.0 Beta 1.</em></p>
+<p><em>For more details on the journey from 5.0.0 to 6.0.0, check out <a href="https://www.joomlapolis.com/forum/6-news-and-publicity/244334-what-am-i-working-on" target="_new">this forum post</a>.</em></p>
+<p><em>For a complete list of changes in CB Activity 6.0, including <strong>110 new features</strong>, explore our <a href="https://forge.joomlapolis.com/projects/cb-activity/issues?query_id=85" target="_new">CB Activity change log</a>.</em></p>
+<p><em>And for CB 2.8.2, the 2 compatibility changes are in this <a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=226">CB change log</a>.</em></p>
+<h3>How to Get CB Activity 6.0 Beta 1</h3>
+<p>To access CB Activity 6.0 Beta 1 and be among the first to experience these incredible features, you'll need a <strong>Professional</strong> or <strong>Developer</strong> membership, one of the benefits of our <a href="https://www.joomlapolis.com/memberships">memberships</a>. Please note that direct upgrades from CB Activity 5.0 to 6.0 Beta 1 are currently unavailable. CB Activity 6.0 Beta 1 requires CB 2.8.2, and CB 2.8.2 performs compatibility checks. Upgrades will be possible when CB Activity 6.0 reaches RC1, implementing CB Activity 5.0 migration code for existing CB Activity 5.0 sites.</p>
+<h3>Get Involved, Support the Community</h3>
+<p>Help shape the future of Community Builder and CB Activity by becoming a <a href="https://www.joomlapolis.com/memberships"><strong>Professional</strong> or <strong>Developer</strong> member</a>. Your support enables us to continue developing these amazing tools that enhance your online community experience. To get started and access CB Activity 6.0 Beta 1, <a href="https://www.joomlapolis.com/memberships" target="_new">join us today</a>!</p>
+<h3>Calling for Early Feedback</h3>
+<p>We're thrilled to receive early feedback from our dedicated community members. Your insights and suggestions play a vital role in shaping the future of CB Activity. Join us in celebrating the release of CB Activity 6.0 Beta 1 and CB 2.8.2, and discover a world of possibilities for your online community.</p>
+<p><em> </em></p>
+<p> </p>]]></description>
+			<category>News</category>
+			<pubDate>Mon, 25 Sep 2023 14:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>🎉 Celebrate with Us: CB's 19th Birthday and Joomla's 18th Anniversary!</title>
+			<link>https://www.joomlapolis.com/news/19021-celebrate-cb-19th-birthday-joomla-18th-anniversary</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19021-celebrate-cb-19th-birthday-joomla-18th-anniversary</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202309/fireworks_2023_640.jpg" alt="Fireworks" width="640" height="373" /></p>
+<p style="text-align: center;">🎉 Celebrate with Us: <a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder</a>'s 19th Birthday and <a href="https://www.joomla.org/" target="_blank" rel="nofollow noopener noreferrer">Joomla!</a>s 18th Anniversary! 🥳</p>
+<p style="text-align: left;"> </p>
+<p style="text-align: left;"> The time has come to break out the virtual party hats and pop some confetti cannons because we've got not one but two fantastic reasons to celebrate! Community Builder is turning 19, and Joomla is hitting the big 18. 🎉</p>
+<h3 style="text-align: left;">🌟 <strong>Remembering Our Roots</strong>: A Walk Down Memory Lane with Community Builder</h3>
+<p style="text-align: left;">It all started on <strong>August 30, 2004</strong>, when Community Builder (CB) made its debut with version 1.0.0 beta 1 (even the <a href="https://web.archive.org/web/20040903192542/http://www.mambojoe.com/content/view/3/2/" target="_blank" rel="nofollow noopener noreferrer">Internet Archive has catched it immediately in 2004!</a>). It was like welcoming a new friend who would transform our Mambo and Joomla websites into bustling social hubs. CB began with the basics—user profiles and community building—and oh boy, what a journey it's been!</p>
+<p style="text-align: left;">From avatars and messaging to enhanced privacy controls and customization galore, CB evolved with each release. It introduced features like the Activity Stream, advanced userlists, and many add-ons like CBSubs for subscription management. Millions of downloads later, <strong>CB is the go-to choice for building thriving online communities!</strong></p>
+<h3 style="text-align: left;">💡 <strong>Enriching Community Builder</strong>: Explore Our CB Add-Ons</h3>
+<p style="text-align: left;">As we celebrate Community Builder's remarkable journey, we'd like to shine a spotlight on the incredible contributions of our supportive members. With a <a href="https://www.joomlapolis.com/memberships">Professional or Developer membership</a>, you gain access to a treasure trove of <a href="https://www.joomlapolis.com/addons">CB add-ons</a> that have been meticulously crafted over the years, enhancing the capabilities of Community Builder.</p>
+<p style="text-align: left;">Our collection includes a range of powerful extensions, each designed to elevate your community-building experience. These add-ons make Community Builder even more flexible and tailorable to a broad range of uses, ranging from clubs to corporate websites and large governmental organizations.</p>
+<p style="text-align: left;">For instance, <a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions">CB Paid Subscriptions (CBSubs)</a> revolutionizes subscription management, making it a breeze to handle memberships and subscriptions. With <a href="https://www.joomlapolis.com/addons/cb-activity">CB Activity</a>, you can create dynamic and engaging activity streams that keep your community members informed and connected like never before. And <a href="https://www.joomlapolis.com/addons/cb-groupjive">CB GroupJive</a> empowers you and your users to create and manage user groups, effectively turning them into mini-communities. It also enables you or your group administrators to organize events, send invitations, and allows their mini-communities members to share photos, videos, files. It also seamlessly integrates with forums. As last but not least example, extensive privacy can be handled through <a href="https://www.joomlapolis.com/addons/cb-privacy">CB Privacy</a> add-on. All these extensions have also been made available as a pre-configured <a href="https://www.joomlapolis.com/addons/cb-quickstart">CB Quickstart</a> installer.</p>
+<h3 style="text-align: left;">🌟 <strong>Active Engagement</strong>: Our Thriving Forums</h3>
+<p style="text-align: left;">What's more, our <a href="https://www.joomlapolis.com/forum">thriving forum</a> serves as a vibrant hub where the community actively participates in discussions, asks questions, and provides invaluable feedback and suggestions. It's this active engagement that guides us in continuously improving CB and its add-ons, ensuring they meet your evolving needs.</p>
+<h3 style="text-align: left;">🚀 <strong>The Future Beckons</strong>: Get Ready for CB Activity 6.0 and CB 3.0!</h3>
+<p style="text-align: left;">While we're reminiscing about the past, let's also talk about the future! Get ready for a soon release of a major completely rewritten CB Activity 6.0 add-on, which is in the making since over a year. And Community Builder 3.0 should be coming your way next year! Maybe even around the 20th birthday of Community Builder ? This won't be just a release; it will be a community engagement revolution. We've listened to your feedback and will be rolling out a treasure trove of features that will dazzle Joomla website administrators and community managers alike.</p>
+<h3 style="text-align: left;">🤪 <strong>The Funny Fact</strong>: <strong>CB 2.8.1—Released Exactly on CB's 19th Birthday!</strong></h3>
+<p style="text-align: left;">Here's a quirky little tidbit to keep the party vibes going: CB 2.8.1 was just released, and guess what? We just realized that it landed precisely on the 19th anniversary of CB's first public release. Talk about perfect timing! <a href="https://www.joomlapolis.com/news/19020-community-builder-2-8-1-released">Check it out here</a>!</p>
+<h3 style="text-align: left;">🎂 <strong>Joomla's 18th Birthday</strong>: A Dynamic Duo of Excellence</h3>
+<p style="text-align: left;">We can't party without giving a shout-out to Joomla, which <a href="https://www.joomla.org/announcements/release-news/5894-joomla-is-18-and-extended-security-support-for-joomla-3.html" target="_blank" rel="noopener noreferrer">turned 18</a> also in August! Joomla has been our partner in life, helping us create vibrant online communities and websites that defy the ordinary. Together, we've championed the cause of open-source software, and the web is all the better for it.</p>
+<h3 style="text-align: left;">💪 <strong>The Power Duo</strong>: Community Builder + Joomla</h3>
+<p style="text-align: left;">Now, let's talk about the dynamic duo—Community Builder and Joomla. When these two join forces, magic happens! The combo brings you a world of possibilities with:</p>
+<ul>
+<li style="text-align: left;"><strong>Easy Community Building</strong>: Seamlessly integrate CB into your Joomla site to create user-centric communities, whether you're a school, a multinational corporation, or an NBA team.</li>
+<li style="text-align: left;"><strong>Cutting-Edge Innovation</strong>: The power of open-source collaboration means you're always at the forefront of innovation. Expect features that cater to your evolving needs. Use our powerful <a href="https://www.joomlapolis.com/addons/cb-auto-actions">CB Auto-Actions</a> and <a href="https://magazine.joomla.org/all-issues/march-2021/joomla-4-the-new-publishing-workflow-feature">Joomla 4 Workflows</a> to bring powerful automation to your website and beyond!</li>
+<li style="text-align: left;"><strong>Tailored Experiences</strong>: With CB's customization options and Joomla's flexibility, and <a href="https://extensions.joomla.org/" target="_blank" rel="nofollow noopener noreferrer">thousands of third-party Joomla open-source extensions</a> and templates you can tailor your community website to perfection. This flexibilty without coding is truly unique in the web industry.</li>
+</ul>
+<h3 style="text-align: left;">🌟 <strong>Conclusion</strong>: Time to Celebrate and Get a Gift!</h3>
+<p style="text-align: left;">Alrighty then, grab your favorite beverage, get those virtual confetti cannons ready, and let's have a blast celebrating these fantastic milestones. As we raise our glasses to Community Builder's 19th birthday and Joomla's 18th anniversary, let's remember all the good times and exciting moments that have brought us here.</p>
+<p style="text-align: left;">But guess what? We've got something special just for you! To make this party even more fun, we're offering a <strong>birthday present</strong>—a cool birthday discount with an exclusive <strong>birthday coupon code</strong> <strong>CB-19-YEARS</strong>, that will give you 25% off <a href="https://www.joomlapolis.com/memberships">all our memberships</a> for new subscriptions and renewals during next 48 hours! It's our way of saying thanks for being a part of our Community Builder family.</p>
+<p style="text-align: left;">So, keep an eye out for CB Activity 6.0 and Community Builder 3.0 — it's going to be a hoot, and together, we'll keep building awesome, user-friendly communities that go above and beyond.</p>
+<p style="text-align: left;">Here's to many more years of good vibes, great conversations, and incredible open-source adventures!</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 20 Sep 2023 14:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.8.1 released: Elevating Online Communities through Purposeful Refinements</title>
+			<link>https://www.joomlapolis.com/news/19020-community-builder-2-8-1-released</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19020-community-builder-2-8-1-released</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/products/cb/logo.svg" alt="Community Builder logo" width="820" height="322" /></p>
+<p style="text-align: center;"><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.8.1</a> can be freely <a href="https://www.joomlapolis.com/downloads/free" rel="alternate">downloaded</a> by all registered members</p>
+<p style="text-align: center;"> </p>
+<p>At Joomlapolis, we are proud to announce the new maintenance-release <a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder 2.8.1</strong></a>, refining the functionality of CB 2.8 for online communities, with <strong>10 new features </strong>to amplify user experiences and<strong> 21 issues fixed, </strong>some of which are<strong> significant improvements</strong>, especially for Joomla 4 sites.<strong><br /></strong></p>
+<p>With a vibrant user base and an unwavering commitment to open-source principles, Joomlapolis continues to empower hundreds of thousands community managers and dozens of millions users alike.</p>
+<p><strong>CB 2.8.1</strong> is compatible with <strong>Joomla 4 (currently at 4.3.4) </strong>and<strong> Joomla 3.10* (currently at 3.10.12), as well as with all our latest<a href="https://www.joomlapolis.com/addons"><strong> CB add-ons</strong></a></strong>.</p>
+<h3>Striving for Continuous Improvement, One Detail at a Time</h3>
+<p>While these may not be big changes, the small improvements in Community Builder 2.8.1 will make a noticeable difference. New features introduced by CB 2.8.1 include:</p>
+<ul>
+<li>
+<p><strong>Even More Flexible Profile Layouts</strong>: Enhancements in placeholder substitutions provide site administrators with a greater level of control over profile layouts. This subtle customization option adds new possibilities to user profiles.</p>
+</li>
+<li>
+<p><strong>Fine-Tuned Joomla System Fields</strong>: We introduce publishing statuses control for Joomla system fields, reducing clutter on user profile edits by allowing the hiding of unneeded system information and settings.</p>
+</li>
+<li>
+<p><strong>Embracing Enhanced Security</strong>: The inclusion of the W3C Web authentication plugin reflects our steadfast commitment to safeguarding user data and privacy.</p>
+</li>
+<li>
+<p><strong>Database Collation Checks</strong>: A pragmatic tool for assessing database collations ensures a smoother and faster user experience by maintaining database integrity, now also on character-set collations for CB tables and columns.</p>
+</li>
+<li>
+<p><strong>Dual CB Date Display</strong>: By imbuing CB date fields with dual functionality—displaying both age and birth dates—we foster deeper connections among users while displaying accurate dates if needed.</p>
+</li>
+<li>
+<p><strong>Refined Aesthetics</strong>: While seemingly subtle, the optimization of CSS styles on specific CB pages contributes to a more harmonious and precise visual experience.</p>
+</li>
+</ul>
+<h3>Improving Stability and Future-proofing</h3>
+<p>Beyond these improvements, <strong>Community Builder 2.8.1</strong> diligently includes 21 pertinent bug fixes, the most important being:</p>
+<ul>
+<li>
+<p><strong>Form Token Enhancement</strong>: We bid adieu to form timeouts with the inclusion of missing keep-alive form tokens rectifying the issue of timeouts in forms, and allowing for uninterrupted user engagement when users get … interrupted for a long time while filling in a form.</p>
+</li>
+<li>
+<p><strong>Enhanced Joomla 4 Compatibility</strong>: We ensure Joomla 4 compatibility remains seamless by also saving Joomla user parameters on CB profile edits.</p>
+</li>
+<li>
+<p><strong>Multi-Language Compatibility</strong>: Multi-language sites within Joomla 4 receive the attention they deserve, as we resolve a Joomla 4 compatibility issue to foster inclusivity.</p>
+</li>
+<li>
+<p><strong>PHP 8.2 Support</strong>: By fxiing PHP 8.2 deprecation notices, we guarantee sustained performance on modern server environments and future-proofing for next PHP 8.3.</p>
+</li>
+<li>
+<p><strong>Smoother User Importing</strong>: We enhanced user management through improved user importing, streamlining data formatting and error detection during user imports.</p>
+</li>
+</ul>
+<h3>A Gentle Push Toward Progress, Stability and Security</h3>
+<p>For <strong>Joomla 4 </strong>and <strong>Joomla 3.10*</strong> sites, <strong>Community Builder 2.8.1</strong> is a highly <strong>recommended upgrade</strong>. The cumulative refinements and fixes reflect our commitment to enhancing the backbone of millions of online communities.</p>
+<p>We're proud to note that the features introduced in CB 2.8.1 were carefully rolled out to our community one by one through our <strong>famous nightly releases</strong>. This meticulous approach ensures that these features are now stable and well-tested in real-world scenarios. Your upgrade should thus be seamless, benefiting from the proven reliability of Community Builder in the field (standard disclaimer: better be safe than sorry: As usual, regular backups are always highly recommended!).</p>
+<p>For a comprehensive overview of the changes introduced in <strong>Community Builder 2.8.1</strong>, please refer to the <a href="https://forge.joomlapolis.com/projects/cb/issues?per_page=50" target="_new">complete changelog</a>. If you are upgrading from an older CB release before CB 2.8, you may also benefit from reading the <a href="https://www.joomlapolis.com/news/19010-community-builder-2-8-released">CB 2.8 announcement</a>.</p>
+<p><em>* By the way, if you are still on Joomla 3, we strongly encourage you to consider upgrading to Joomla 4 at your earliest convenience.</em></p>
+<h3><em>Empowering Communities Together</em></h3>
+<p>This maintenance release underscores our unceasing <strong>mission to offer a platform that enhances the very core of community interaction</strong>. By opting for a <a href="https://www.joomlapolis.com/memberships"><strong>Membership</strong></a> and/or making a modest <a href="https://www.joomlapolis.com/donation"><strong>Donation</strong></a>, you play an integral role in the advancement of Community Builder and in the collective evolution of Free, open, and thriving online community spaces.</p>
+<p><em>Shape Your Space, Embrace Evolution - Explore <a href="https://www.joomlapolis.com/community-builder"><strong>Community Builder 2.8.1</strong></a> along with all our <a href="https://www.joomlapolis.com/addons"><strong>CB Add-ons</strong></a> Today on our <a href="https://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer"><strong>CB Demo Site</strong></a>.</em></p>
+<p> </p>
+<p><em> </em></p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 30 Aug 2023 14:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4.3.4 with game-changing Guided Tours!</title>
+			<link>https://www.joomlapolis.com/news/19019-joomla-4-3-4-is-released-with-guided-tours</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/19019-joomla-4-3-4-is-released-with-guided-tours</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5861-joomla-4-1-5-and-3-10-10-release.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202308/j434_640.jpg" alt="Joomla 4.3 features release at joomla.org" width="640" height="295" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5861-joomla-4-1-5-and-3-10-10-release.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4.3 is here with Guided Tours!</a></p>
+<p><strong>Joomla 4.3</strong> introduced <strong>Guided Tours</strong>, <strong>a game-changing feature!</strong></p>
+<p>Guided Tours is now the first top menu in the Joomla administration, guiding new users in creating their first article, adding a category, or menu. This <strong>interactive walkthrough</strong> redefines how users engage with Joomla 4.3, offering <strong>step-by-step guidance for seamless onboarding</strong>, personalized learning, and enhanced satisfaction. We believe that by spotlighting features and empowering new users, guided tours are set to redefine how users interact with Joomla 4.3+ and will significantly boost Joomla's uptake.</p>
+<h3>Simplified Onboarding</h3>
+<p>Newcomers can navigate Joomla 4.3 effortlessly with guided tours. Interactive prompts and tooltips provide intuitive step-by-step guidance, reducing the learning curve and boosting confidence.</p>
+<h3>Contextual Learning</h3>
+<p>Guided tours provide real-time context, allowing users to learn as they explore. Tailored explanations while using the platform bridge the gap between <strong>what</strong> users want to do and <strong>how</strong> to do it, enhancing learning effectiveness.</p>
+<h3>Empowered Users</h3>
+<p>With guided tours in Joomla 4.3, new users gain a solid grasp of the platform in record time. They're less likely to need extensive documentation or support, making their Joomla experience smoother and more independent.</p>
+<h3>Accessibility at the Core</h3>
+<p>Joomla's commitment to accessibility extends to its guided tours, ensuring that people with disabilities can fully benefit from the feature. Just like the entire Joomla platform, guided tours are designed with inclusivity in mind.</p>
+<h3>Tailored Experience</h3>
+<p>Joomla's guided tours aim to cater to diverse expertise levels. Beginners receive comprehensive guidance, while advanced users can skip introductory tours, ensuring personalized assistance as more advanced tours get gradually added.</p>
+<h3>Create your own Tours</h3>
+<p>Moreover, you have the possibility to create your own guided tours specific to your site to assist your users' onboarding or to help them discover and use new site feature.</p>
+<h3>Joomla 4.3's Additional Features</h3>
+<p>Joomla 4.3 brings many more new features, including a revamped Media Manager, workflow improvements, enhanced tags, custom fields, and menus. It also upgrades to Bootstrap version 5.2 and enhances support for PHP 8.2.</p>
+<h3>Stay Up to Date with Joomla 4.3.4</h3>
+<p>Yesterday, Joomla released version 4.3.4, a maintenance release that improves and fixes minor bugs. We encourage all users to stay up to date to ensure they have the best experience with Joomla.</p>
+<h3>In Summary<strong><br /></strong></h3>
+<p>We think that Guided Tours will redefine user interaction in Joomla 4 by simplifying onboarding, enabling contextual learning, and unveiling hidden features. This feature exemplifies Joomla's commitment to a user-centric approach that enhances engagement and success, all while driving an increased uptake of the Joomla platform.</p>
+<h3>About Joomla 4.3.4 and Community Builder</h3>
+<p>Joomla is currently the most accessible CMS available. It stands as a robust and mature product powering millions of websites. Unlike a lot of other CMSes, its code-base is clean, solid, and inherently secure from the ground up.</p>
+<p><a href="https://www.joomlapolis.com/community-builder">Community Builder 2.8</a> latest build and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> run just fine on this solid new Joomla 4.3.4 release, as can be seen on our <a href="https://demo.cbdemosites.com/">Community Builder and add-ons Demo Site</a>.</p>
+<p>To help you discover or present Joomla to your friends or customers, the Joomla marketing team has prepared a <a href="https://joom.la/J4brochure" target="_blank" rel="nofollow noopener noreferrer"><strong>Joomla 4 brochure, in 15 languages, that you can download here</strong></a>.</p>
+<h3>Learning more</h3>
+<p>You can find additional information about these new features by reading the <a href="https://www.joomla.org/announcements/release-news/5882-joomla-4-3-0-stable-featuring-guided-tours.html" target="_blank" rel="noopener noreferrer">Joomla 4.3 announcement</a> and the <strong><a href="https://magazine.joomla.org/all-issues/march-2023/guiding-you-through-guided-tours" target="_blank" rel="noopener noreferrer">Joomla Magazine article about Guided Tours</a></strong>.</p>
+<h3>Contributing back</h3>
+<p>Finally, <a href="https://magazine.joomla.org/all-issues/july-2023/do-you-have-a-few-hours-to-help-enhance-joomla"><strong>Joomla welcomes help to enhance and add guided tours to the core</strong></a>.</p>
+<p>And if you are eager to contribute to the open-source and free CB, we would also <a href="https://www.joomlapolis.com/forum/146-general/246090-proposals-for-contributions-for-guided-tours-for-community-builder"><strong>warmly welcome a contribution with a set of Guided Tours for Community Builder</strong></a>!.</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 24 Aug 2022 05:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
